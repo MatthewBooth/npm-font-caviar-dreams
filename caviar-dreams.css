@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Caviar Dreams';
+    font-weight: normal;
+    font-style: normal;
+    src: url('fonts/Regular/CaviarDreams-Regular.eot');
+    src: url('fonts/Regular/CaviarDreams-Regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Regular/CaviarDreams-Regular.woff2') format('woff2'),
+    url('fonts/Regular/CaviarDreams-Regular.woff') format('woff'),
+    url('fonts/Regular/CaviarDreams-Regular.ttf') format('truetype'),
+    url('fonts/Regular/CaviarDreams-Regular.svg#CaviarDreamsRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'Caviar Dreams';
+    font-weight: normal;
+    font-style: italic;
+    src: url('fonts/Italic/CaviarDreams-Italic.eot');
+    src: url('fonts/Italic/CaviarDreams-Italic.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Italic/CaviarDreams-Italic.woff2') format('woff2'),
+    url('fonts/Italic/CaviarDreams-Italic.woff') format('woff'),
+    url('fonts/Italic/CaviarDreams-Italic.ttf') format('truetype'),
+    url('fonts/Italic/CaviarDreams-Italic.svg#CaviarDreamsItalic') format('svg');
+}
+
+@font-face {
+    font-family: 'Caviar Dreams';
+    font-weight: bold;
+    font-style: normal;
+    src: url('fonts/Bold/CaviarDreams-Bold.eot');
+    src: url('fonts/Bold/CaviarDreams-Bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Bold/CaviarDreams-Bold.woff2') format('woff2'),
+    url('fonts/Bold/CaviarDreams-Bold.woff') format('woff'),
+    url('fonts/Bold/CaviarDreams-Bold.ttf') format('truetype'),
+    url('fonts/Bold/CaviarDreams-Bold.svg#CaviarDreamsBold') format('svg');
+}
+
+@font-face {
+    font-family: 'Caviar Dreams';
+    font-weight: bold;
+    font-style: italic;
+    src: url('fonts/BoldItalic/CaviarDreams-BoldItalic.eot');
+    src: url('fonts/BoldItalic/CaviarDreams-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('fonts/BoldItalic/CaviarDreams-BoldItalic.woff2') format('woff2'),
+    url('fonts/BoldItalic/CaviarDreams-BoldItalic.woff') format('woff'),
+    url('fonts/BoldItalic/CaviarDreams-BoldItalic.ttf') format('truetype'),
+    url('fonts/BoldItalic/CaviarDreams-BoldItalic.svg#CaviarDreamsBoldItalic') format('svg');
+}

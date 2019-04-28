@@ -1,0 +1,33 @@
+{
+  "name": "npm-font-caviar-dreams",
+  "version": "1.0.0",
+  "description": "Caviar Dreams font family - including CSS, SCSS, STY and LESS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewBooth/npm-font-caviar-dreams.git"
+  },
+  "keywords": [
+    "font",
+    "fontface",
+    "caviar",
+    "dreams",
+    "css",
+    "sass",
+    "scss",
+    "less",
+    "sty"
+  ],
+  "author": "Lauren Thompson",
+  "contributors": [
+    {
+      "name": "Matt Booth",
+      "email": "me@mattbooth.dev"
+    }
+  ],
+  "main": "./caviar-dreams.css",
+  "license": "SEE LICENCE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/MatthewBooth/npm-font-caviar-dreams/issues"
+  },
+  "homepage": "https://github.com/MatthewBooth/npm-font-caviar-dreams#readme"
+}
